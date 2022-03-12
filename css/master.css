@@ -4,10 +4,11 @@ body {
 }
 .content {
   background-color: hsl(0, 0%, 100%);
-  width: 300px;
+  width: 310px;
   margin: 150px auto;
   border-radius: 20px;
   text-align: center;
+  height: 470px;
 }
 .content img {
   margin: 5%;
@@ -25,4 +26,7 @@ body {
   margin: 10px;
   color: hsl(220, 15%, 55%);
   padding-bottom: 20px;
+}
+.attribution {
+  display: none;
 }
